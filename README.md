@@ -18,9 +18,9 @@ Adding multiple neovim like NVchad, LasyVim, AstroVim, etc.
 ### Note: your neovim are in the ~/.config/nvim file.
 ### This NVchad, LasyVim, Astrovim configuration files show in the in install command
 * To install NVchad
- * ```
-   git clone https://github.com/NvChad/NvChad ~/.config/NVchad 
-   ```
+  * ```
+    git clone https://github.com/NvChad/NvChad ~/.config/NVchad 
+    ```
 * To install LasyVim
   * ```
     git clone https://github.com/LazyVim/starter ~/.config/Lasyvim
