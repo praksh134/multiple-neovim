@@ -56,4 +56,8 @@ function nvims() {
 
 bind -x '"\C-a": nvims'
 ```
-
+### Now u can use the (nvims) command to use the multiple nvim
+## To use multiple nvim  
+```
+nvims
+```
