@@ -5,5 +5,11 @@ Adding multiple neovim like NVchad, LasyVim, AstroVim, etc.
 
 ## Requirements
 * Fuzzy Finder
-  * To install Fuzzy Finder 
+  <details>
+<summary>Click to expand</summary>
+
+This is the content that appears when the dropdown is expanded.
+
+</details>
+
 * Neovim
