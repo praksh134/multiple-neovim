@@ -6,10 +6,10 @@ Adding multiple neovim like NVchad, LasyVim, AstroVim, etc.
 ## Requirements
 * Fuzzy Finder
   <details>
-<summary>Click to expand</summary>
+<summary>Click to show dropdown</summary>
 
 This is the content that appears when the dropdown is expanded.
 
-</details>
+  </details>
 
 * Neovim
